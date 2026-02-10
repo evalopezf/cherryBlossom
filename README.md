@@ -272,7 +272,7 @@ Rango altitudinal:         0 - 850 m
 
 ## 👥 Autores
 
-**[Eva María López Fernádez]**
+**Eva María López Fernádez**
 - 🎓 Entrega final Bootcamp Data Analytics & IA - Upgrade
 - 🌐 [Portfolio](https://evalopezf.github.io/portfolio-digital/)
 
