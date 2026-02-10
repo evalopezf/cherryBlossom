@@ -2089,8 +2089,8 @@ def main():
         """)
 
         variables_info = pd.DataFrame([
-            {"Variable": "dynamic_chill_total", "Descripción": "Porciones de frío acumuladas (Oct→floración)", "Tipo": "Climática"},
-            {"Variable": "gdd_total", "Descripción": "Growing Degree Days acumulados (Ene→floración)", "Tipo": "Climática"},
+            {"Variable": "dynamic_chill_total", "Descripción": "Porciones de frío acumuladas ", "Tipo": "Climática"},
+            {"Variable": "gdd_total", "Descripción": "Growing Degree Days acumulados ", "Tipo": "Climática"},
             {"Variable": "frost_days_total", "Descripción": "Días con helada (Tmin < 0°C)", "Tipo": "Climática"},
             {"Variable": "temp_media_30d", "Descripción": "Temperatura media 30 días previos", "Tipo": "Climática"},
             {"Variable": "temp_max_30d", "Descripción": "Temp. máxima media 30 días previos", "Tipo": "Climática"},
